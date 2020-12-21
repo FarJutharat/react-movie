@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+
+.NavBar{
+  background-color: #282c34;
+  display: block;
+  color: aliceblue;
+  padding-left: 16px;
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
